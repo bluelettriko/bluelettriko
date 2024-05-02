@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lorenzo</h1>
-<h3 align="center">I am a Data Analyst</h3>
+<h3 align="center">I am a Data Analyst with a creative background in the entertainment industry. I specialize in storytelling with data and finding innovative solutions. With skills in analysis, visualization, and predictive modeling, I'm ready to tackle challenges and make a meaningful impact.</h3>
 
 - 📫 How to reach me **villanumero7@gmail.com**
 
