@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Villa</h1>
+<h1 align="center">Hi, I'm Lorenzo</h1>
 <h3 align="center">I am a Data Analyst</h3>
 
 - 📫 How to reach me **villanumero7@gmail.com**
